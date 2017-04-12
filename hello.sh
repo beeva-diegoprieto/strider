@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 mkdir dir1
 echo "HE CREADO DIR1"
